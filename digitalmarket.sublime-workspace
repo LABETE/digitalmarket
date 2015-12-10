@@ -1,0 +1,1101 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get_form",
+				"get_form_class"
+			],
+			[
+				"Create",
+				"CreateWithInlinesView"
+			],
+			[
+				"Classroom",
+				"ClassroomGeneralData"
+			],
+			[
+				"clas",
+				"classroomtimetable"
+			],
+			[
+				"Th",
+				"Thursday	(models.py)"
+			],
+			[
+				"ClassromTime",
+				"ClassroomTimeTableForm"
+			],
+			[
+				"classroom",
+				"classroomgeneraldata"
+			],
+			[
+				"ClassroomTime",
+				"ClassroomTimeTableFormset"
+			],
+			[
+				"Clas",
+				"ClassroomTimeTable"
+			],
+			[
+				"class",
+				"classroomtimetables:list	(models.py)"
+			],
+			[
+				"classroomtime",
+				"classroomtimetables"
+			],
+			[
+				"Class",
+				"ClassroomListView	(views.py)"
+			],
+			[
+				"clss",
+				"classrooms	(common.py)"
+			],
+			[
+				"Detail",
+				"DetailView"
+			],
+			[
+				"Detai",
+				"DetailView"
+			],
+			[
+				"Group",
+				"GroupForm	class"
+			],
+			[
+				"list",
+				"list	(common.py)"
+			],
+			[
+				"ClassRom",
+				"ClassRoomForm"
+			],
+			[
+				"Deta",
+				"DetailView"
+			],
+			[
+				"max",
+				"max_length=255	(models.py)"
+			],
+			[
+				"Ge",
+				"GenericCareerScpecialityData"
+			],
+			[
+				"get_succes",
+				"get_success_url	function"
+			],
+			[
+				"specialities",
+				"specialities"
+			],
+			[
+				"Special",
+				"SpecialityListView	(views.py)"
+			],
+			[
+				"slug",
+				"slug_url_kwarg"
+			],
+			[
+				"Spe",
+				"Speciality"
+			],
+			[
+				"Speci",
+				"SpecialityForm"
+			],
+			[
+				"Spec",
+				"SpecialityForm	class"
+			],
+			[
+				"res",
+				"response_200"
+			],
+			[
+				"get",
+				"get_object	(views.py)"
+			],
+			[
+				"Care",
+				"CareerDetailView"
+			],
+			[
+				"get_",
+				"get_check_200"
+			],
+			[
+				"___",
+				"__str__	(models.py)"
+			],
+			[
+				"Car",
+				"CareerUpdateView	(views.py)"
+			],
+			[
+				"caree",
+				"careerform	statement"
+			],
+			[
+				"tra",
+				"translation	(models.py)"
+			],
+			[
+				"error",
+				"error_messages	(admin.py)"
+			],
+			[
+				"cle",
+				"cleaned_data"
+			],
+			[
+				"Career",
+				"CareerForm"
+			],
+			[
+				"error_mess",
+				"error_message	(admin.py)"
+			],
+			[
+				"Test",
+				"TestCase"
+			],
+			[
+				"careers",
+				"careers:list	(views.py)"
+			],
+			[
+				"slu",
+				"slug_field"
+			],
+			[
+				"form",
+				"form_class"
+			],
+			[
+				"url",
+				"urlresolvers	(models.py)"
+			],
+			[
+				"Lo",
+				"LoginRequiredMixin"
+			],
+			[
+				"Ca",
+				"Career"
+			],
+			[
+				"max_len",
+				"max_length	(models.py)"
+			],
+			[
+				"lab",
+				"laboratory_debts	(models.py)"
+			],
+			[
+				"librar",
+				"library_debts	(models.py)"
+			],
+			[
+				"Debt",
+				"DebtForm"
+			],
+			[
+				"Crea",
+				"CreateView	(views.py)"
+			],
+			[
+				"Deb",
+				"DebtForm	class"
+			],
+			[
+				"slug_",
+				"slug_field"
+			],
+			[
+				"List",
+				"ListView"
+			],
+			[
+				"Upda",
+				"UpdateView"
+			],
+			[
+				"Update",
+				"UpdateView	(views.py)"
+			],
+			[
+				"Model",
+				"ModelForm	ModelForm"
+			],
+			[
+				"Mode",
+				"ModelForm	ModelForm"
+			],
+			[
+				"Tea",
+				"TeacherAdministratorManager"
+			],
+			[
+				"Ad",
+				"AdministratorManager"
+			],
+			[
+				"Stu",
+				"StudentManager	class"
+			],
+			[
+				"Teacher",
+				"TeacherAdministrator"
+			],
+			[
+				"true",
+				"True	keyword"
+			],
+			[
+				"Administra",
+				"AdministratorManager"
+			],
+			[
+				"ver",
+				"verbose_name_plural"
+			],
+			[
+				"verb",
+				"verbose_name"
+			],
+			[
+				"app",
+				"application"
+			],
+			[
+				"conext",
+				"context_processors"
+			],
+			[
+				"context",
+				"context_processors"
+			],
+			[
+				"choice",
+				"choices	(common.py)"
+			],
+			[
+				"verbose",
+				"verbose_name_plural"
+			],
+			[
+				"models",
+				"models	import"
+			],
+			[
+				"APP_",
+				"APPS_DIR"
+			],
+			[
+				"seria",
+				"serializers"
+			],
+			[
+				"REtr",
+				"RetrieveUpdateDestroyAPIView"
+			],
+			[
+				"show",
+				"showDelete"
+			],
+			[
+				"statr",
+				"start_date"
+			],
+			[
+				"start",
+				"start_date"
+			],
+			[
+				"casedetails",
+				"caseDetails	(projectAngular.js)"
+			],
+			[
+				"project",
+				"project_id"
+			],
+			[
+				"projc",
+				"project_id"
+			],
+			[
+				"fai",
+				"failed"
+			],
+			[
+				"inp",
+				"inprogress"
+			],
+			[
+				"not",
+				"notstarted"
+			],
+			[
+				"status",
+				"statuschoices"
+			],
+			[
+				"star",
+				"start_date"
+			],
+			[
+				"case",
+				"caseid"
+			],
+			[
+				"casedet",
+				"casedetails"
+			],
+			[
+				"statuscho",
+				"statuschoices	(controllers.js)"
+			],
+			[
+				"st",
+				"style	Attr"
+			],
+			[
+				"users",
+				"users_to_display"
+			],
+			[
+				"change",
+				"changeProject	(controllers.js)"
+			],
+			[
+				"coo",
+				"co_owner"
+			],
+			[
+				"defect_id",
+				"defect_id_displayed"
+			],
+			[
+				"save",
+				"saveCaseDetail"
+			],
+			[
+				"input",
+				"input_data"
+			],
+			[
+				"casedeta",
+				"casedetail"
+			],
+			[
+				"out",
+				"output_data"
+			],
+			[
+				"display",
+				"displaystep	(controllers.js)"
+			],
+			[
+				"casede",
+				"casedetail"
+			],
+			[
+				"new",
+				"newValues"
+			],
+			[
+				"cased",
+				"casedetails"
+			],
+			[
+				"create",
+				"createCaseDetail	(controllers.js)"
+			],
+			[
+				"CaseDetailContro",
+				"CaseDetailListController	(controllers.js)"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ste",
+				"stepsdisplayed	(cases_list.html)"
+			],
+			[
+				"disa",
+				"disableUser"
+			],
+			[
+				"proje",
+				"project_id"
+			],
+			[
+				"user",
+				"usersdropdowndisplayed	(controllers.js)"
+			],
+			[
+				"Proj",
+				"ProjectListController"
+			],
+			[
+				"templa",
+				"templates"
+			],
+			[
+				"load",
+				"loadDefect"
+			],
+			[
+				"template",
+				"templateUrl"
+			],
+			[
+				"u",
+				"url"
+			],
+			[
+				"Case",
+				"CaseDetailListController	(controllers.js)"
+			],
+			[
+				"defect",
+				"defect_id	(models.py)"
+			],
+			[
+				"projec",
+				"projectid"
+			],
+			[
+				"$state",
+				"$stateParams"
+			],
+			[
+				"Delete",
+				"DeleteController	(projects_list.html)"
+			],
+			[
+				"delete",
+				"deletemodal"
+			],
+			[
+				"co_ow",
+				"co_owners"
+			],
+			[
+				"co_o",
+				"co_owners	(form_projects.html)"
+			],
+			[
+				"owner",
+				"owner"
+			],
+			[
+				"fun",
+				"function	(projectAngular.js)"
+			],
+			[
+				"fas",
+				"False	instance"
+			],
+			[
+				"edit",
+				"editProject({name:project	(projects_list.html)"
+			],
+			[
+				"username",
+				"username=username"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "table",
+		"selected_items":
+		[
+			[
+				"table",
+				"Snippet: bs3-table"
+			],
+			[
+				"row",
+				"Snippet: bs3-row"
+			],
+			[
+				"container",
+				"Snippet: bs3-container"
+			],
+			[
+				"bs3 butt",
+				"Snippet: bs3-button-primary"
+			],
+			[
+				"bs3 ta",
+				"Snippet: bs3-table-striped"
+			],
+			[
+				"bs3 row",
+				"Snippet: bs3-row"
+			],
+			[
+				"bs3 con",
+				"Snippet: bs3-container"
+			],
+			[
+				"bs3 succ",
+				"Snippet: bs3-label-success"
+			],
+			[
+				"bs3 ",
+				"Snippet: bs3-col-3"
+			],
+			[
+				"bs3 suc",
+				"Snippet: bs3-label-success"
+			],
+			[
+				"bs3",
+				"Snippet: bs3-clearfix"
+			],
+			[
+				"bs3 in",
+				"Snippet: bs3-input-submit"
+			],
+			[
+				"bs3 inputda",
+				"Snippet: bs3-input-date"
+			],
+			[
+				"bs3label",
+				"Snippet: bs3-label"
+			],
+			[
+				"bs3inputte",
+				"Snippet: bs3-input-text"
+			],
+			[
+				"bs3lab",
+				"Snippet: bs3-label"
+			],
+			[
+				"form",
+				"Snippet: bs3-form-horizontal"
+			],
+			[
+				"button",
+				"Snippet: bs3-button-danger"
+			],
+			[
+				"warn",
+				"Snippet: bs3-button-warning"
+			],
+			[
+				"warni",
+				"Snippet: bs3-alert-warning"
+			],
+			[
+				"conta",
+				"Snippet: bs3-container"
+			],
+			[
+				"label",
+				"Snippet: bs3-label"
+			],
+			[
+				"bs3 panel",
+				"Snippet: bs3-panel-table"
+			],
+			[
+				"bs3 pane",
+				"Snippet: bs3-panel"
+			],
+			[
+				"labe",
+				"Snippet: bs3-label"
+			],
+			[
+				"bs3ro",
+				"Snippet: bs3-row"
+			],
+			[
+				"bs3con",
+				"Snippet: bs3-container"
+			],
+			[
+				"console",
+				"SublimeREPL: Python - Sublime Text Console"
+			],
+			[
+				"bs3 form",
+				"Snippet: bs3-form-horizontal"
+			],
+			[
+				"bs3 col",
+				"Snippet: bs3-col"
+			],
+			[
+				"bs3 cont",
+				"Snippet: bs3-container"
+			],
+			[
+				"bs3 btn",
+				"Snippet: bs3-input-group-btn"
+			],
+			[
+				"bs3 list",
+				"Snippet: bs3-list-group"
+			],
+			[
+				"bs3 for",
+				"Snippet: bs3-form"
+			],
+			[
+				"bs3 l",
+				"Snippet: bs3-list-group"
+			],
+			[
+				"btn",
+				"Snippet: bs3-input-group-btn"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"emme",
+				"Set Syntax: Emmet"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"contr",
+				"Preferences: Package Control Settings – Default"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/labete/Desktop/dm"
+	],
+	"file_history":
+	[
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/careers/career_detail.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/static/js/project.js",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/base.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/specialities/speciality_detail.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/specialities/speciality_form.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/specialities/speciality_list.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/classroomtimetables/classroomtimetable_list.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/classroomtimetables/classroomtimetable_detail.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/users/urls.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/users/tests/test_views.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/users/views.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/account/signup.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/users/admin.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/users/tests/test_models.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/core/models.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/classrooms/classroom_detail.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/classrooms/classroom_form.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/classrooms/classroom_list.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/careers/career_list.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/classes/class_detail.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/classes/class_list.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/careers/career_form.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/classes/class_form.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/users/models.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/groups/group_form.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/groups/group_detail.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/groups/group_list.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/config/urls.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/classroomtimetables/classroomgeneraldata_form.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/classroomtimetables/views.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/classroomtimetables/forms.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/classroomtimetables/models.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/classroomtimetables/urls.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/specialities/views.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/classrooms/urls.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/classrooms/forms.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/classrooms/models.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/classrooms/views.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/groups/forms.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/groups/urls.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/groups/views.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/groups/models.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/classes/urls.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/classes/views.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/classes/models.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/classes/forms.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/specialities/tests/test_views.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/specialities/tests/test_forms.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/specialities/urls.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/specialities/models.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/specialities/forms.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/careers/tests/test_forms.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/careers/tests/test_views.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/careers/tests/test_models.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/careers/views.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/careers/models.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/careers/urls.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/careers/forms.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/config/settings/common.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/classroomtimetables/classroomtimetable_form.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/debts/urls.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/debts/views.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/debts/forms.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/debts/models.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/classroomstimetable/urls.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/classroomstimetable/forms.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/classroomstimetable/views.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/classroomstimetable/models.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/classrooms/classrooms_detail.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/classrooms/classrooms_list.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/classrooms/classrooms_form.html",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/TestYourProject/static/templates/cases/cases_list.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/users/user_detail.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/users/user_list.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/classes/migrations/0001_initial.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/careers/migrations/0001_initial.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/careers/migrations/0002_auto_20150913_0148.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/classes/migrations/__init__.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/users/user_form.html",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/TestYourProject/static/templates/cases/cases_form.html",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/TestYourProject/static/templates/casedetails/casedetails_form.html",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/TestYourProject/static/templates/projects/projects_list.html",
+		"/home/labete/Desktop/Backup/TestYourProject/projects/views.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/specialities/migrations/0003_auto_20151003_1754.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/specialities/migrations/0002_auto_20151003_1753.py",
+		"/home/labete/Desktop/Backup/TestYourProject/TestYourProject/static/js/project.js",
+		"/home/labete/Desktop/Backup/TestYourProject/projects/forms.py",
+		"/home/labete/Desktop/Backup/TestYourProject/TestYourProject/templates/projects/project_form.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/specialities/tests/test_models.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/core/views.py",
+		"/home/labete/Desktop/Backup/TestYourProject/projects/models.py",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/TestYourProject/static/js/controllers.js",
+		"/home/labete/Desktop/Backup/TestYourProject/TestYourProject/templates/projects/project_list.html",
+		"/home/labete/Desktop/Backup/TestYourProject/projects/urls.py",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/TestYourProject/templates/projects/project_detail.html",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/TestYourProject/templates/projects/project_form.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/careers/career_detailhtml",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/projects/views.py",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/cases/views.py",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/defects/views.py",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/casedetails/views.py",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/core/models.py",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/projects/models.py",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/cases/models.py",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/defects/models.py",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/casedetails/models.py",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/projects/serializers.py",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/cases/serializers.py",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/casedetails/serializers.py",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/defects/serializers.py",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/core/api.py",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/config/urls.py",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/TestYourProject/static/templates/projects/projects_edit.html",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/TestYourProject/static/templates/projects/projects_form.html",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/TestYourProject/static/templates/projects/projects_create.html",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/TestYourProject/static/templates/projects/projects_detail.html",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/TestYourProject/static/templates/defects/defects_form.html",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/TestYourProject/static/templates/defects/defects_list.html",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/TestYourProject/static/templates/defects/defects_edit.html",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/TestYourProject/static/templates/defects/defects_create.html",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/TestYourProject/static/templates/defects/defects_detail.html",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/TestYourProject/static/templates/cases/cases_create.html",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/TestYourProject/static/templates/cases/cases_detail.html",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/TestYourProject/templates/base.html",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/TestYourProject/static/templates/cases/cases_edit.html",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/config/settings/common.py",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/TestYourProject/static/js/services.js",
+		"/home/labete/Desktop/Django_Projects/TestYourProject/TestYourProject/static/js/projectAngular.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"form",
+			"ClassroomTimeTableFormset",
+			"],\n",
+			"class_code",
+			"name",
+			"class",
+			"CareerCreateView",
+			"CareerDetailView",
+			"\"",
+			"get_succesful_url",
+			"list",
+			"form",
+			"admin",
+			"forms",
+			"template",
+			"template_dir",
+			"apps_dir",
+			"app_dir",
+			"APP_DIRS",
+			"APPS_DIR",
+			"APPS",
+			"auth",
+			"template",
+			"process_wb",
+			"xw",
+			"userabs",
+			"drop",
+			"out",
+			"dro",
+			"displayDragDropFile",
+			"drop_dom_element",
+			"del",
+			"drop",
+			"not star",
+			"not applicable",
+			"green",
+			"red",
+			"testcase",
+			"status",
+			"dctprojects",
+			"progress",
+			"project",
+			"testcase",
+			"userlist",
+			"end_date",
+			"splice",
+			"defect",
+			"casedetaildisplayed",
+			"load",
+			"case_id",
+			"CaseDetailController",
+			"ng-hide",
+			"true",
+			"casedetail.step",
+			"if",
+			"user",
+			"defect",
+			"id_displayedname",
+			"case",
+			"project",
+			"id",
+			"window",
+			"name",
+			"pop",
+			"update",
+			"username",
+			"cookies",
+			"roo",
+			"User",
+			"users",
+			"user",
+			"UserprofileCtrl",
+			"UserProfileCtrl",
+			"prof",
+			"user",
+			"coo",
+			"log",
+			"cooki",
+			"username",
+			"cookies",
+			"user",
+			"settings",
+			"model",
+			"response",
+			"MainCtrl",
+			"main",
+			"location",
+			"restrict",
+			"authenticated",
+			"authentica",
+			"sign",
+			"user",
+			"authenticated",
+			"auth",
+			"api_URL",
+			"rest",
+			"user",
+			"rest",
+			"user",
+			"stt",
+			"favico",
+			"run",
+			"user.get",
+			"auth",
+			"popupService",
+			"object",
+			"Project",
+			"403",
+			"ProjectCreateController",
+			"movie",
+			"fn",
+			"create",
+			"projectsA",
+			"start",
+			"id_start_date",
+			"start",
+			"projects",
+			"content",
+			"projects",
+			"rest",
+			"bootstrap3_datetime",
+			"$(\"#id_owner\")",
+			"$(\"#id_co_owners\")",
+			"selected_val",
+			"owner_initial_text",
+			"initial_val",
+			"detai",
+			"create"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "digitalmarket.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
