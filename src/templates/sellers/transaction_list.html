@@ -1,0 +1,22 @@
+
+
+<table class="table table-hover">
+	<thead>
+		<tr>
+			<th>Product</th>
+			<th>User</th>
+			<th>Sale Total</th>
+			<th></th>
+		</tr>
+	</thead>
+{% for trans in transaction_list %}
+	<tbody>
+		<tr>
+			<td>{{ trans.product }}</td>
+			<td>{{ trans.user }}</td>
+			<td>{{ trans.price }}</td>
+			<td>{{ trans.timestamp|timesince }}</td>
+		</tr>
+	</tbody>
+{% endfor %}
+</table>

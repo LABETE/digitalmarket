@@ -5,3 +5,16 @@ lib/
 .python
 *.py[cod]
 pip-selfcheck.json
+digitalmarket.sublime-project
+digitalmarket.sublime-workspace
+*.plist
+Thumbnails.json
+analytics_backup.json
+billing_backup.json
+products_backup.json
+sellers_backup.json
+tags_backup.json
+users.json
+src/digitalmarket/settings/local.py
+src/digitalmarket/settings/production.py
+src/digitalmarket/old_settings.py

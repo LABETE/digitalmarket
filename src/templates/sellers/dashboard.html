@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>{{ title }}</h1>
+{% if apply_form %}
+<form method="POST" action="">
+    <h3>Rules of the Marketplace</h3>
+	<ol>
+		<li>
+			Be kind
+		</li>
+		<li>
+			Sell well
+		</li>
+		<li>
+			Don't steal
+		</li>
+	</ol>
+{% csrf_token %}
+{{ apply_form.as_p }}
+<input type="submit">
+</form>
+{% endif %}
+{% if products %}
+<h4>My Products</h4>
+<small><a href="{% url 'sellers:product_create' %}">Add</a>|<a href="{% url 'sellers:product_list' %}">View All</a></small>
+{% include "products/product_list_snippet.html" with product_list=products %}
+{% endif %}
+<h3>Today's Sales are ${{ today_sales }}</h3>
+{% if transactions_today %}
+{% include "sellers/transaction_list.html" with transaction_list=transactions_today %}
+{% else %}
+<p>No sales today.</p>
+{% endif %}
+<h3>Recent Transaction History. (Total Sales: ${{ total_sales }})</h3>
+
+{% if transactions %}
+{% include "sellers/transaction_list.html" with transaction_list=transactions %}
+{% else %}
+<p>No recent sales</p>
+{% endif %}
+<a href="{% url 'sellers:transactions' %}">View all transactions</a>
+{% endblock content %}
